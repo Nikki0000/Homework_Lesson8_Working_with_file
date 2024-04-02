@@ -1,1 +1,1 @@
-# Homework_Lesson8_Working_with_file
+# Скрины с резубтатом работы скрипта
